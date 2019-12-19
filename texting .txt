@@ -1,0 +1,47 @@
+ level 3 communications	0.05	30	84.03	0.00	0.00	350000000	Images, Reviews	0.00,0.00,0.33,0.00,0.00,0.00,1.00,0.00,0.00,0.33,0.33,0.00
+nsync communications llc	0.05	30	74.84	0.00	0.00	435000	Images, Site Links, Reviews	0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.25,0.50,0.25,1.00,0.75
+orlando dns tools	0.05	30	66.00	0.00	0.00	3670000	Images, Reviews, Video	1.00,0.33,0.11,0.22,0.00,0.11,0.22,0.11,0.44,0.11,0.11,0.11
+phase 3 tulsa	0.05	40	80.24	0.00	0.03	8620000	Reviews, Video	0.14,0.14,0.29,0.14,0.57,0.71,0.14,0.57,0.14,0.29,1.00,0.71
+public looking glass servers	0.05	30	57.94	0.00	0.14	41700000		1.00,0.25,1.00,0.75,0.25,0.50,1.00,0.00,0.25,0.25,0.75,0.25
+public route server ip address	0.05	50	52.28	0.00	0.00	39500000		0.40,0.20,1.00,0.00,0.00,0.00,0.40,0.20,0.00,0.00,0.00,0.40
+registrant company level 3	0.05	20	86.59	0.00	0.01	48	Images, Site Links, Reviews	1.00,0.04,0.02,0.06,0.02,0.02,0.02,0.15,0.02,0.02,0.04,0.02
+route server ip	0.05	50	51.74	0.00	0.00	57200000		0.00,0.00,0.00,1.00,1.00,1.00,0.00,1.00,0.00,0.00,1.00,1.00
+this is only one level 3	0.05	70	81.30	0.00	0.00	4480000000	Images, Reviews	0.29,0.29,0.43,1.00,0.14,0.14,0.71,0.14,1.00,0.14,0.14,0.14
+three internet down	0.05	20	78.55	0.00	0.00	1020000000	Reviews	0.33,0.33,0.00,0.33,0.00,0.00,1.00,0.00,0.67,0.00,0.00,0.00
+tier 1 wikipedia	0.05	40	100.00	0.00	0.00	90900000	Images, Site Links	0.40,0.20,0.20,1.00,0.40,0.20,0.20,0.20,0.80,0.20,0.20,0.20
+time warner looking glass	0.05	30	54.66	0.00	0.00	22200000	Reviews, Video	0.14,1.00,0.14,0.71,0.14,0.29,0.14,0.57,0.14,0.71,0.29,0.57
+traceroute bgp	0.05	20	70.80	0.00	0.17	536000	Site Links	0.22,0.22,1.00,0.11,0.11,0.44,0.00,0.33,0.11,0.33,0.22,0.11
+tw telecom albuquerque	0.05	20	83.80	0.00	0.00	1260000	Knowledge Panel, Images	0.14,1.00,0.43,0.14,0.43,0.14,0.57,0.14,0.29,0.14,0.00,0.14
+tw telecom competitors	0.05	20	79.90	0.00	0.00	257000	Reviews, Featured Snippet	0.00,0.00,1.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+twc ping test	0.05	40	83.16	0.00	0.00	610000	Site Links, Reviews, Video	0.14,0.29,0.29,0.14,0.14,0.00,0.14,0.14,0.00,0.29,1.00,0.14
+uk looking glass	0.05	20	62.97	0.00	0.00	344000000	Reviews	0.25,0.25,0.25,0.00,0.25,0.75,0.00,0.00,0.00,1.00,0.25,0.25
+upcloud looking glass	0.05	30	61.13	0.00	0.00	92	Images, Reviews, Video	0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.40
+us looking glass	0.05	30	62.47	0.62	0.01	744000000	Reviews	0.50,0.50,0.25,0.25,0.25,0.25,1.00,0.25,0.25,0.25,0.25,0.25
+verizon level 3	0.05	20	75.58	0.00	0.00	63900000	Images, Reviews	0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,0.20,1.00
+voxility looking glass	0.05	50	50.58	0.00	0.00	99	Images	0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.60,1.00,0.20,0.20
+what does level 3 communications landline mean	0.05	40	80.82	0.00	0.28	2250000	Images, Reviews, Featured Snippet	0.25,0.50,0.00,1.00,0.00,0.00,0.00,1.00,0.00,0.50,0.00,0.25
+what does level 3 communications voip mean	0.05	20	71.15	0.00	0.00	1740000	Featured Snippet	0.25,1.00,0.50,0.25,0.25,0.00,0.00,0.25,0.00,0.00,0.00,0.00
+what does level 3 do	0.05	50	84.17	0.00	0.00	5730000000	Reviews, Featured Snippet	0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.14,0.43,0.14,1.00
+what does level 3 mean	0.05	20	72.86	0.00	0.07	1480000000	Featured Snippet	1.00,0.33,0.33,0.67,0.67,0.33,0.33,0.33,0.33,0.33,0.33,0.67
+what is a level 3 carrier	0.05	20	79.72	0.00	0.00	245000000	Site Links, Reviews, Featured Snippet	0.33,0.11,0.11,1.00,0.78,0.11,0.11,0.11,0.56,0.11,0.11,0.11
+what is a level 3 communications landline	0.05	20	81.48	0.00	0.25	3390000	Images, Reviews, Featured Snippet	0.50,0.25,0.25,0.25,1.00,0.25,0.25,0.25,0.75,1.00,0.50,0.25
+what is a level 3 communications phone line	0.05	20	78.73	0.00	0.00	292000000	Instant Answer, Knowledge Panel, Reviews	0.00,0.00,0.22,0.11,1.00,0.11,0.11,0.11,0.11,0.11,0.22,0.00
+what is a level 3 voip number	0.05	20	65.72	15.00	0.40	30700000	Reviews, Featured Snippet	0.14,0.14,0.14,0.14,1.00,0.14,0.29,0.14,0.14,0.14,0.14,0.14
+what is a looking glass site	0.05	90	62.33	0.00	0.00	554000000	Featured Snippet	0.20,0.40,0.20,0.80,0.20,0.00,0.20,0.20,1.00,0.00,0.20,0.20
+what is level 3	0.05	140	75.81	8.10	0.05	4710000000	Knowledge Panel, Reviews	0.67,0.52,1.00,0.52,0.52,0.52,0.52,0.52,0.43,0.81,0.43,0.52
+what is level 3 communications	0.05	590	84.24	0.89	0.03	777000000	Knowledge Panel, Site Links, Reviews	0.82,0.82,1.00,0.82,0.82,0.82,0.82,0.55,0.55,0.67,0.55,0.67
+what is level 3 communications landline	0.05	50	84.74	0.00	0.15	3220000	Images, Reviews, Featured Snippet	0.29,0.14,0.14,1.00,0.14,0.43,0.14,0.14,0.57,0.43,0.14,0.14
+what is level 3 communications llc	0.05	20	80.41	0.03	0.10	119000000	Knowledge Panel, Reviews	0.03,0.01,0.01,0.01,0.01,0.01,0.03,0.01,0.01,1.00,0.06,0.01
+what is level 3 communications llc fl	0.05	90	78.10	0.00	0.05	100	Images, Reviews, Featured Snippet	0.14,0.14,0.71,0.14,0.43,0.14,0.14,0.29,0.14,0.43,0.14,1.00
+what is level 3 company	0.05	30	81.79	0.00	0.00	2750000000	Knowledge Panel, Reviews	0.25,0.00,0.25,0.25,0.00,0.25,0.25,0.25,0.50,0.75,1.00,0.00
+what is level 3 phone carrier	0.05	40	78.64	0.07	0.21	248000000	Reviews, Featured Snippet	0.11,0.11,0.44,0.11,0.11,0.11,0.11,0.56,1.00,1.00,0.11,0.11
+what is level three communications	0.05	50	86.10	0.07	0.07	266000000	Knowledge Panel, Reviews	0.25,0.25,0.25,0.50,0.25,0.25,0.25,1.00,0.75,0.25,0.25,1.00
+whats level 3 communications	0.05	70	84.00	0.05	0.09	252000000	Knowledge Panel, Images, Reviews, Video	1.00,0.14,0.29,0.71,0.14,0.14,0.43,0.14,0.14,0.29,0.14,0.43
+whats the brand level 3	0.05	20	75.29	0.00	0.00	4100000000	Images, Reviews	0.00,0.11,0.11,0.11,0.00,1.00,0.22,0.00,0.11,0.00,0.00,0.22
+why is level 3 communications calling me 2017	0.05	390	83.19	0.44	0.10	153000000	Reviews	0.30,0.19,0.24,0.36,0.30,0.30,0.36,0.30,0.44,1.00,0.82,0.44
+why is level 3 communications calling me 2018	0.05	40	82.85	0.05	0.09	172000000	Images, Reviews	0.01,1.00,0.82,0.55,0.19,0.24,0.03,0.08,0.01,0.01,0.01,0.01
+wiltel communications company profile	0.05	20	83.48	0.00	0.00	49	Images, Featured Snippet	0.14,0.29,1.00,0.14,0.57,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+wiltel communications level 3	0.05	50	81.04	0.00	0.00	96	Images	1.00,0.14,0.29,0.43,0.43,0.14,0.14,0.14,0.14,0.71,0.14,0.14
+wing telecom stock	0.05	70	86.53	0.00	0.00	11800000	Reviews, Video	0.00,0.00,0.09,1.00,0.09,0.36,0.09,0.09,0.09,0.45,0.09,0.09
+xo communications looking glass	0.05	50	58.67	0.00	0.02	1860000	Reviews	0.00,0.14,0.14,0.43,0.29,0.14,0.14,1.00,0.29,0.14,0.00,0.14
+zayo looking glass	0.05	210	61.37	5.80	0.03	82900	Reviews	0.81,0.65,0.81,0.81,0.81,0.65
